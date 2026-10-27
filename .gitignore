@@ -1,0 +1,20 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Large analysis objects
+*.rds
+*.RData
+
+# Generated figures/results
+*.pdf
+*.png
+
+# Optional local output directories
+results/
+outputs/
