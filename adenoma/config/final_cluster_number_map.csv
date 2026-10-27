@@ -1,0 +1,30 @@
+final_cluster_number,source_cluster,final_annotation
+1,CCA_3,WNT-high stem/progenitor epithelial
+2,CCA_6,Myofibroblast-like stroma
+3,CCA_8,GPNMB+ / MMP12+ macrophages
+4,CCA_9,Inflammatory/regenerative epithelial
+5,CCA_10,Vascular mural/endothelial-like cells
+6,CCA_11,Metabolic absorptive epithelial
+7,CCA_12,Activated antigen-presenting B cells
+8,CCA_13,Activated T / gamma-delta T–NK-like lymphocytes
+9,CCA_14,Enteroendocrine cells
+10,CCA_16,Enteric glia / neural-like cells
+11,CCA_19,Goblet-like secretory epithelial
+12,CCA_20,Mature absorptive enterocyte/colonocyte
+13,CCA_21,Endothelial cells
+14,CCA_22,CD163+ tissue-resident-like macrophages
+15,RECLUSTER_0,LGR5+ stem/progenitor-like epithelial cells
+16,RECLUSTER_1,CA1/CA2+ differentiated absorptive colonocyte-like cells
+17,RECLUSTER_2,Goblet/secretory epithelial cells
+18,RECLUSTER_3,Cycling/proliferating cells
+19,RECLUSTER_4,Inflammatory/regenerative crypt epithelial cells
+20,RECLUSTER_5,Mature absorptive colonocytes
+21,RECLUSTER_6,Activated/plasmablast-like B cells
+22,RECLUSTER_7,Smooth muscle/myofibroblast-like stromal cells
+23,RECLUSTER_8,POU2F3+ tuft-like/tuft-precursor cells
+24,RECLUSTER_9,OLFM4+ intestinal stem/progenitor epithelial cells
+25,RECLUSTER_10,WNT-high intestinal stem/progenitor epithelial cells
+26,RECLUSTER_11,Tuft cells
+27,RECLUSTER_12,BEST4+ OTOP2+ absorptive epithelial cells
+28,RECLUSTER_13,G2/M-high proliferating cells
+29,RECLUSTER_14,Cycling OLFM4+ stem/progenitor epithelial cells

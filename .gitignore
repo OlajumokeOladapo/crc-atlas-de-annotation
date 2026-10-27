@@ -1,4 +1,4 @@
-# R
+# R session files
 .Rhistory
 .RData
 .Ruserdata
@@ -7,14 +7,21 @@
 # macOS
 .DS_Store
 
-# Large analysis objects
+# Large single-cell objects / matrices
 *.rds
 *.RData
+*.h5
+*.h5ad
 
-# Generated figures/results
+# Generated figures
 *.pdf
 *.png
+*.tif
+*.tiff
 
-# Optional local output directories
+# Generated run directories / heavy outputs
+DESeq2_pseudobulk_CCA_res0.5_revised/
+Unresolved_Reclustering_By_Condition/
+Final_Annotated_Seurat_Objects/
 results/
 outputs/
