@@ -77,3 +77,13 @@ No second unresolved-cell reclustering is claimed for Normal.
 The machine-readable map is `config/Normal_final_CCA_annotation_map.csv`.
 
 Final outputs are written under `<atlas_root>/final_annotated_conditions/` as `annotated_normal.rds`, `annotated_normal_UMAP.png`, `annotated_normal_UMAP.pdf`, and `annotated_normal_annotation_key.csv`.
+
+---
+
+## Author
+
+**Olajumoke B. Oladapo**  
+Ph.D. Biomedical Engineering  
+University of Oklahoma  
+Moussa Lab
+
