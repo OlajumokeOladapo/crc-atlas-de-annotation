@@ -1,0 +1,39 @@
+cluster,final_annotation,annotation_source,analysis_status
+0,Plasma cells (lambda-skewed; IgA with IgG),original CCA annotation,Included
+1,Plasma cells (kappa-skewed; IgA),original CCA annotation,Included
+2,CD4+ helper/regulatory T (Treg plus Tfh/Th17-like),original CCA annotation,Included
+3,LGR5+ OLFM4+ stem/progenitor-like epithelium,original CCA annotation,Included
+4,CD8+ tissue-resident/effector-memory T,original CCA annotation,Included
+5,"Plasma cells (kappa; IgA/IgM, secretory-high)",original CCA annotation,Included
+6,"Dendritic cells (cDC1/cDC2, CD207+)",original CCA annotation,Included
+7,Naive/central-memory CD4+ T,original CCA annotation,Included
+8,Cytotoxic NK (CD56dim-like) plus gamma-delta T,original CCA annotation,Included
+9,MAIT/Th17-Th22-like T (activated),original CCA annotation,Included
+10,Gamma-delta T cells (TRDV1/TRDV2+),original CCA annotation,Included
+11,Naive/mature B cells,original CCA annotation,Included
+12,MAIT cells,original CCA annotation,Included
+13,Plasma cells (kappa; stress-high),original CCA annotation,Included
+14,Mature absorptive colonocytes,original CCA annotation,Included
+15,Naive/mature B cells (CR1+ CD83+),original CCA annotation,Included
+16,Goblet cells,original CCA annotation,Included
+17,Cycling epithelial/B-lineage mixed population,limma-voom refinement,Included
+18,BEST4+ epithelium,original CCA annotation,Included
+19,Classical inflammatory monocytes/neutrophil-like,original CCA annotation,Included
+20,Stress-response (heat-shock/immediate-early; IgA plasma-like),original CCA annotation,Included
+21,Endothelial (capillary-like),original CCA annotation,Included
+22,B cells (naive/transitional),original CCA annotation,Included
+23,Goblet/mucous with gastric-type features,original CCA annotation,Included
+24,"Fibroblasts (adventitial-like, PI16+ SFRP2+)",original CCA annotation,Included
+25,Mast cells,original CCA annotation,Included
+26,POU2F3+/TRPM5+ tuft-like epithelial cells,limma-voom refinement,Included
+27,Germinal-center B cells,original CCA annotation,Included
+28,Tuft cells,original CCA annotation,Included
+29,Plasma cells (kappa; mature secretory),original CCA annotation,Included
+30,Macrophages (LYVE1+ FOLR2+ C1Q+),original CCA annotation,Included
+31,Smooth muscle / pericytes,original CCA annotation,Included
+32,Subepithelial/niche fibroblasts,original CCA annotation,Included
+33,Inflammatory fibroblasts,original CCA annotation,Included
+34,Excluded - CELLxGENE_Moorman2025,CELLxGENE_Moorman2025-only; not confidently annotatable,Excluded
+35,Enteroendocrine cells,original CCA annotation,Included
+36,Enteric glia / neural,original CCA annotation,Included
+37,Plasmacytoid DCs,original CCA annotation,Included

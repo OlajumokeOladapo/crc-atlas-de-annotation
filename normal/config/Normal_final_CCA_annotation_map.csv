@@ -1,0 +1,24 @@
+cluster,final_annotation,annotation_source
+0,Paneth-like / LGR5+ crypt epithelial cells,limma-voom refinement
+1,"Differentiated surface absorptive epithelium, metallothionein-high",original CCA annotation
+2,"CD4 naive/memory T cells, ICOS+ / CTLA4+",original CCA annotation
+3,Mature distal-type colonocytes,original CCA annotation
+4,Goblet cells,original CCA annotation
+5,Naive/mature B cells,original CCA annotation
+6,HOXB13+ OXPHOS-high colonic epithelium,original CCA annotation
+7,Cycling transit-amplifying epithelial cells,original CCA annotation
+8,Intestinal stem/progenitor cells,original CCA annotation
+9,Mature absorptive enterocytes/colonocytes,original CCA annotation
+10,Plasma cells / plasmablasts,limma-voom refinement
+11,Subepithelial/telocyte-like fibroblasts,original CCA annotation
+12,Cytotoxic CD8 / gamma-delta T / NK-like lymphocytes,original CCA annotation
+13,Smooth muscle cells,original CCA annotation
+14,CFD+ ADH1B+ SCARA5+ fibroblasts,original CCA annotation
+15,CD163+ tissue-resident macrophages,original CCA annotation
+16,BEST4+ OTOP2+ absorptive epithelium,original CCA annotation
+17,"Blood vascular endothelial cells, mixed subtypes",original CCA annotation
+18,Mixed enteric glia/neural and mast-cell cluster,original CCA annotation
+19,Tuft cells,original CCA annotation
+20,Enteroendocrine cells,original CCA annotation
+21,Cycling secretory/crypt epithelial cells,limma-voom refinement
+22,Lymphatic endothelial cells,original CCA annotation
