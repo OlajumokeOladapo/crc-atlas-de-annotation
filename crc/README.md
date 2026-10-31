@@ -536,6 +536,70 @@ annotated_TAN.rds
 
 and their corresponding final UMAPs.
 
+
+## Final CRC cluster numbering
+
+The final CRC atlas contains **33 numbered cell populations (0–32)**. The first group includes the refined populations recovered from unresolved-cell reclustering, followed by the original CCA populations that were already resolved.
+
+The final number-to-cell-type map used in the CRC UMAP is:
+
+| Final | Annotation |
+|---:|---|
+| 0 | LGR5/OLFM4+ epithelial stem/progenitor-like cells |
+| 1 | LGR5+ absorptive progenitor-like epithelial cells |
+| 2 | Cycling epithelial cells |
+| 3 | DKK1+/MUC5AC+ stress-associated epithelial cells |
+| 4 | Activated antigen-presenting B cells |
+| 5 | MHC-II-high B cells |
+| 6 | B-cell / plasma-cell population |
+| 7 | Plasma/plasmablast-like secretory B cells |
+| 8 | Plasma cells / plasmablast-like cells |
+| 9 | Cycling B-lineage / plasmablast-like cells |
+| 10 | GZMM+ regulatory T cells |
+| 11 | Activated regulatory T cells |
+| 12 | Gamma-delta T / NK-like cytotoxic lymphocytes |
+| 13 | Cycling gamma-delta T/NK-like cytotoxic lymphocytes |
+| 14 | ACKR1+/MADCAM1+ venous endothelial cells |
+| 15 | RGS5+/PDGFRB+ mural/pericyte cells |
+| 16 | COL2A1/COL11A2+ mesenchymal stromal cells |
+| 17 | INHBA+/BMP2+ vascular/perivascular stromal-like cells |
+| 18 | Activated CAF-like fibroblasts |
+| 19 | Cytotoxic CD8 effector/effector-memory T cells |
+| 20 | Dendritic cells |
+| 21 | Epithelial cells |
+| 22 | Enterocyte-like tumor epithelium |
+| 23 | Goblet/secretory epithelium with Paneth-like features |
+| 24 | Inflammatory squamous-like tumor epithelium |
+| 25 | MAIT / Th17-like innate-like T cells |
+| 26 | Mast cells |
+| 27 | Naive/central-memory CD4 T cells |
+| 28 | NK / gamma-delta T cytotoxic lymphocytes |
+| 29 | Proliferating germinal-center-like B cells |
+| 30 | Proliferating myeloid cells |
+| 31 | S100A8/A9/A12+ inflammatory myeloid cells |
+| 32 | TREM2+ C1Q+ tumor-associated macrophages |
+
+A machine-readable version is saved with the final atlas as:
+
+```text
+final_annotated_conditions/annotated_CRC_annotation_key.csv
+```
+
+The numbered UMAP is saved as:
+
+```text
+final_annotated_conditions/annotated_CRC_UMAP.png
+final_annotated_conditions/annotated_CRC_UMAP.pdf
+```
+
+The final annotated Seurat object is:
+
+```text
+final_annotated_conditions/annotated_CRC.rds
+```
+
+The final numbering is used for visualization and legend organization; the original CCA cluster identity remains preserved in the Seurat metadata.
+
 ## Final Seurat metadata
 
 The refined CRC object preserves both the original and refined analysis.
