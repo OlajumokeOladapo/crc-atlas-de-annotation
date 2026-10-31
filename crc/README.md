@@ -232,13 +232,12 @@ GSE231559 = 52 cells
 
 and retains the earlier CELLxGENE raw-count exclusions.
 
-The uploaded final script records this explicitly. fileciteturn39file1L407-L418
-
+The uploaded final script records this explicitly. 
 ### Subcluster cell counts
 
 `12_parent9_12_subcluster_cell_counts.R`
 
-Reports original cells, donor exclusions, cells available for raw-count DE, and study representation by parent/subcluster. fileciteturn39file2L14-L30
+Reports original cells, donor exclusions, cells available for raw-count DE, and study representation by parent/subcluster.
 
 ### Current subcluster annotation map
 
@@ -260,7 +259,7 @@ The repository should contain:
 - annotation maps/configuration;
 - README/method documentation.
 
-The GSE225857 donor restoration script explicitly uses the saved original GEO metadata files and maps the `patients` field to `verified_donor_id`, while rejecting ambiguous cell matches. fileciteturn39file0L55-L115
+The GSE225857 donor restoration script explicitly uses the saved original GEO metadata files and maps the `patients` field to `verified_donor_id`, while rejecting ambiguous cell matches. 
 
 ## Author
 
