@@ -1,0 +1,15 @@
+parent_cluster,subcluster,annotation,confidence
+9,0,IgA+ plasma cells / plasmablasts,high
+9,1,RGS5+/PDGFRB+ activated mural stromal cells,high
+9,2,IGL-high B-lineage cells,moderate
+9,3,Unresolved mixed T-cell/epithelial population,low
+9,4,Vascular endothelial cells,high
+9,5,Activated regulatory T cells,high
+9,6,IgG+ plasma/plasmablast-like cells,high
+9,7,Activated antigen-presenting B cells,high
+9,8,C1Q+ inflammatory macrophages / TAM-like cells,high
+12,0,IgA+ plasma cells / plasmablasts,high
+12,1,IgG+ plasma/plasmablast-like cells,high
+12,2,IGL-high B-lineage cells,moderate-high
+12,3,Activated antigen-presenting B cells,high
+12,4,CCL4+ activated lymphocyte-like cells,low

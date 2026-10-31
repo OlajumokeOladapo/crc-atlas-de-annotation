@@ -1,0 +1,20 @@
+unresolved_recluster_id,annotation,annotation_basis
+0,LGR5/OLFM4+ epithelial stem/progenitor-like cells,pseudobulk
+1,Plasma/plasmablast-like secretory B cells,pseudobulk fallback
+2,Cycling epithelial cells,pseudobulk
+3,Activated antigen-presenting B cells,pseudobulk
+4,GZMM+ regulatory T cells,pseudobulk
+5,Plasma cells / plasmablast-like cells,pseudobulk fallback
+6,Activated regulatory T cells,pseudobulk fallback
+7,ACKR1+/MADCAM1+ venous endothelial cells,pseudobulk
+8,RGS5+/PDGFRB+ mural/pericyte cells,pseudobulk fallback
+9,B-cell / plasma-cell population,subcluster resolution
+10,Cycling gamma-delta T/NK-like cytotoxic lymphocytes,pseudobulk fallback
+11,MHC-II-high B cells,pseudobulk
+12,B-cell / plasma-cell population,subcluster resolution
+13,COL2A1/COL11A2+ mesenchymal stromal cells,pseudobulk
+14,Cycling B-lineage / plasmablast-like cells,pseudobulk
+15,Gamma-delta T / NK-like cytotoxic lymphocytes,pseudobulk
+16,DKK1+/MUC5AC+ stress-associated epithelial cells,Wilcoxon annotation support
+17,INHBA+/BMP2+ vascular/perivascular stromal-like cells,pseudobulk
+18,LGR5+ absorptive progenitor-like epithelial cells,Wilcoxon annotation only
