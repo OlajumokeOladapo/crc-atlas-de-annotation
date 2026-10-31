@@ -669,3 +669,12 @@ The repository intentionally preserves the distinction between:
 Large Seurat objects, raw-count matrices, pseudobulk caches, fitted model objects, and generated DE result directories remain on OSCER rather than being committed to GitHub.
 
 The repository contains the reproducible scripts, configuration maps, and documentation required to trace the final CRC annotations back to the analysis stage that produced them.
+
+---
+
+## Author
+
+**Olajumoke B. Oladapo**  
+Ph.D. Biomedical Engineering  
+University of Oklahoma  
+Moussa Lab
