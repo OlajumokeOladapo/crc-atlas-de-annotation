@@ -297,3 +297,13 @@ The repository intentionally preserves the distinction between:
 - and final metadata integration.
 
 This makes it possible to trace every final Adenoma cell back to both its original CCA cluster and, when applicable, its refined recluster.
+
+---
+
+## Author
+
+**Olajumoke B. Oladapo**  
+Ph.D. Biomedical Engineering  
+University of Oklahoma  
+Moussa Lab
+
