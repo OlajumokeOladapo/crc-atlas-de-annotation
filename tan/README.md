@@ -53,3 +53,13 @@ Cluster 34 is excluded because it is restricted to `CELLxGENE_Moorman2025` and c
 The full machine-readable map is `config/TAN_final_CCA_annotation_map.csv`. It preserves all original resolved CCA annotations, the refined labels for clusters 17 and 26, and the explicit exclusion status for cluster 34.
 
 Final outputs are written under `<atlas_root>/final_annotated_conditions/` as `annotated_TAN.rds`, `annotated_TAN_UMAP.png`, `annotated_TAN_UMAP.pdf`, `annotated_TAN_annotation_key.csv`, `TAN_annotation_summary.csv`, and `TAN_cluster34_excluded_cells.csv`.
+
+---
+
+## Author
+
+**Olajumoke B. Oladapo**  
+Ph.D. Biomedical Engineering  
+University of Oklahoma  
+Moussa Lab
+
